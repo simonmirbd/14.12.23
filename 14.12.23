@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 Шёлк
+#EXTINF:-1, Шёлк
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 #EXTINF:-1, Penthouse Gold HD
 http://51.159.102.100/PenthouseGold/index.m3u8

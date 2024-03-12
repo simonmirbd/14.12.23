@@ -1,4 +1,5 @@
-#EXTINF:-1 tvg-logo=\"https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg\" group-title=\"Взрослые\",Шёлк
+#EXTM3U 
+#EXTINF:-1 Шёлк
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 
 #EXTINF:-1 tvg-id=\"penthouse-gold\" group-title=\"Взрослые\", Penthouse Gold HD
